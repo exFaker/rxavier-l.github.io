@@ -16,8 +16,8 @@
  <img align="center" alt="Xavier-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Xavier-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Xavier-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
-         src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+    <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;"
+         src="https://media.giphy.com/media/tDFuZ1Pq8bCxxD59bR/giphy.gif">
   </div>
   
   ##
