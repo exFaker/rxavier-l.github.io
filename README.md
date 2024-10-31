@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Olá, Xavier aqui!<br>Seja bem-vindo(a) ao meu GitHub!</h1>
 
 ###
 
